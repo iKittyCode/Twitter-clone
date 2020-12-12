@@ -1,0 +1,22 @@
+{
+  "name": "meower",
+  "version": "1.0.0",
+  "description": "This is my twitter clone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test command\"",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mew",
+    "server",
+    "tweet",
+    "clone"
+  ],
+  "author": "Syon",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
